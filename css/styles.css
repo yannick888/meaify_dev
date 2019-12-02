@@ -1,0 +1,20 @@
+body, html
+{
+  height: 100%;
+  margin: 0;
+}
+
+h3
+{
+  color: #32407b;
+}
+
+.bg
+{
+  background-image: url('meaify_logo.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  text-align: center;
+}
